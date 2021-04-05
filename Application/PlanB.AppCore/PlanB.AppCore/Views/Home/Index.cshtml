@@ -3,7 +3,7 @@
 }
 
 <style type="text/css">
-    h1 {
+    h1,p,h5 {
         color: white;
     }
 
@@ -16,12 +16,25 @@
         width: 100%;
     }
 
-    @@include media-breakpoint-up(sm) {
-        .imagebackground {
-            background-color: red;
-            height: 100vh;
-            width: 100%;
-        }
+    .card-position {
+        width: auto;
+        position: relative;
+        z-index: 2;
+        padding: 30px;
+        border: none;
+        border-radius: 3px;
+        background-color: #E78524;
+        box-shadow: 2px 2px 5px #000;
+    }
+
+    .card-back-position {
+        position: absolute;
+        top: -6%;
+        left: -6%;
+        width: 110%;
+        height: 40%;
+        background-color: #543078;
+        z-index: 0;
     }
 </style>
 
@@ -38,33 +51,62 @@
             </tbody>
         </table>
     </section>
+</div>
+    <hr>
     <section class="h-100">
-        
+        @* REMOVER O FOOTER FUTURAMENTE, QUANDO FOR REMOVIDO APAGAR ESTE COMENTÁRIO *@
+        <table class="h-100">
+            <h1 class="display-4 text-center " style="margin-bottom:10%">Nossa Equipe</h1>
+            <br>
+            <div class="row d-flex">
+                <div class="align-bottom col-md-4 order-sm-1 order-2">
+                    <div class="card card-position" style="">
+                        <div class="card-back-position"></div>
+                        <img class="card-img-top" src="~/media/paty.jpg" alt="Card image cap" style="border-radius: 50%; 
+                                    z-index: 2;">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Paty</h5>
+                            <p class="card-text text-center ">Professora</p>
+                        </div>
+                        <a href="#" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                            width:100%;
+                            box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
+                    </div>
+                </div>
+
+                <div class="align-middle col-md-4 order-sm-2 order-1">
+
+                    <div class="card card-position" style="transform: translateY(-20px)">
+                        <div class="card-back-position"></div>
+                        <img class="card-img-top" src="~/media/lais.jpg" alt="Card image cap" style="border-radius: 50%; 
+                                    z-index: 2;">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Laís Mota</h5>
+                            <p class="card-text text-center ">Fundadora</p>
+
+                        </div>
+                        <a href="#" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                            width:100%;
+                            box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
+                    </div>
+                </div>
+
+                <div class="align-bottom col-md-4 order-3">
+
+                    <div class="card card-position" style="">
+                        <div class="card-back-position"></div>
+                        <img class="card-img-top" src="~/media/20210218_142559.jpg" alt="Card image cap" style="border-radius: 50%; 
+                                    z-index: 2;">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Name</h5>
+                            <p class="card-text text-center ">Cargo</p>
+                        </div>
+                        <a href="#" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                            width:100%;
+                            box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
+                    </div>
+                </div>
+        </table>
     </section>
 
-    <!-- <div class="text-right">
-        <h2>Fundadora</h2>
 
-        <img src="~/media/lais.jpg" />
-        <p>
-            Fundadora do Curso de Idiomas Plan B
-        </p>
-        <style>
-
-            p {
-                color: white;
-            }
-
-            h2 {
-                color: white;
-            }
-        </style>
-        <br />
-        <img src="~/media/paty.jpg" width="240px" height="170px" />
-        <p>
-            Professora Patrícia 
-        </p>
-
-    </div>      -->
-
-</div>

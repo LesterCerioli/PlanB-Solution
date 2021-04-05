@@ -2,10 +2,47 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="jumbotron-fluid imagebackground ">
+<style type="text/css">
+    h1 {
+        color: white;
+    }
 
-    <div class="centerText"></div>
-     <!-- <div class="text-right">
+    .imagebackground {
+        background-image: url("../media/backgroundImage.png");
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        background-size: contain;
+        height: 80vh;
+        width: 100%;
+    }
+
+    @@include media-breakpoint-up(sm) {
+        .imagebackground {
+            background-color: red;
+            height: 100vh;
+            width: 100%;
+        }
+    }
+</style>
+
+<div class="jumbotron-fluid imagebackground ">
+    <section class="h-100">
+        <table class="h-100">
+            <tbody>
+                <tr>
+                    <td class="align-middle">
+                        <h1 class="text-warp col-sm-12 col-md-11 col-lg-7">A LIBERDADE DE CONVERSAR COM O MUNDO INTEIRO
+                        </h1>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <section class="h-100">
+        
+    </section>
+
+    <!-- <div class="text-right">
         <h2>Fundadora</h2>
 
         <img src="~/media/lais.jpg" />
@@ -27,7 +64,7 @@
         <p>
             Professora Patrícia 
         </p>
-        
+
     </div>      -->
-    
+
 </div>

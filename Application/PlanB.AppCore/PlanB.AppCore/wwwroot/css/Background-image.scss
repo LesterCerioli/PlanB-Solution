@@ -1,0 +1,46 @@
+﻿@import "..//../sass/_mom_rendering";
+$blue: #b200ff |default;
+$dark-gray: #333 |default;
+$light-gray: #ffd800 |default;
+.responsive-image-nav {
+    background-color: blueviolet;
+    display: flex;
+    border-bottom: 10px solid $dark-gray;
+    a,
+    label {
+        @include panding(1em 1em);
+    }
+    label {
+        min-width: 110px;
+        background-color: $blue;
+        margin: 0;
+        color: darkorchid;
+    }
+    a {
+        display: block;
+        color: $dark-gray;
+        text-decoration: none;
+        &.active {
+            color: white;
+            background-color: darkorchid;
+        }
+    }
+}
+
+.image-container {
+    @include margin(1em auto);
+    display: table;
+    picture,
+    img {
+        @inclide margin(null null 0.5em null);
+    }
+    .image-caption {
+        display: table-caption;
+        caption-side: bottom;
+    }
+    &.same-size {
+        img {
+            width: 320px;
+        }
+    }
+}

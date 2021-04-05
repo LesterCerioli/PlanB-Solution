@@ -1,0 +1,593 @@
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.json
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.exe
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.deps.json
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.json
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.dev.json
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csprojAssemblyReference.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfoInputs.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfo.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.Manifest.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.xml
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\scopedcss\bundle\PlanB.AppCore.styles.css
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.input.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.output.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorCoreGenerate.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cs
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.genruntimeconfig.cache
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CopyComplete
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\madalena_dias\source\repos\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.json
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.exe
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.deps.json
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.json
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.dev.json
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csprojAssemblyReference.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfoInputs.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfo.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.Manifest.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.xml
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\scopedcss\bundle\PlanB.AppCore.styles.css
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.input.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.output.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorCoreGenerate.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cache
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cs
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CopyComplete
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\madalena_dias\source\repos\Azure\PlanB-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.genruntimeconfig.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.json
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.exe
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.deps.json
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.json
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.dev.json
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csprojAssemblyReference.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfoInputs.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfo.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.Manifest.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.xml
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\scopedcss\bundle\PlanB.AppCore.styles.css
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.input.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.output.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorCoreGenerate.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cache
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cs
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CopyComplete
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\Wesley.Silva\source\repos\Azure\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.genruntimeconfig.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.json
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.exe
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.deps.json
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.json
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.dev.json
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csprojAssemblyReference.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfoInputs.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfo.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.Manifest.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.xml
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\scopedcss\bundle\PlanB.AppCore.styles.css
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.input.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.output.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorCoreGenerate.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.Views.pdb
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CopyComplete
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\ref\PlanB.AppCore.dll
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.pdb
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.genruntimeconfig.cache
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\AskQuest\Index.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+C:\Users\madalena_dias\Documents\PlanB-WebSite\Plan B-Idiomas-Website-Project\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.Development.json
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\appsettings.json
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.exe
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.deps.json
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.json
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.runtimeconfig.dev.json
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ref\PlanB.AppCore.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.pdb
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\PlanB.AppCore.Views.pdb
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Humanizer.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csprojAssemblyReference.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfoInputs.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.AssemblyInfo.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CoreCompileInputs.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorAssemblyInfo.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.Manifest.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\staticwebassets\PlanB.AppCore.StaticWebAssets.xml
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\scopedcss\bundle\PlanB.AppCore.styles.css
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.input.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.TagHelpers.output.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorCoreGenerate.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\AskQuest\Index.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Contato.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cache
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.RazorTargetAssemblyInfo.cs
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.Views.pdb
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.csproj.CopyComplete
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\ref\PlanB.AppCore.dll
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.pdb
+D:\Madalena.Dias\Azure\PlanB-Idiomas-Website\Application\PlanB.AppCore\PlanB.AppCore\obj\Debug\net5.0\PlanB.AppCore.genruntimeconfig.cache

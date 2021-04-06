@@ -1,9 +1,10 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
 <style type="text/css">
-    h1,p,h5 {
+    h1,
+    p,
+    h5 {
         color: white;
     }
 
@@ -27,6 +28,10 @@
         box-shadow: 2px 2px 5px #000;
     }
 
+    .card-position:hover {
+        background-color: #e29f5c;
+    }
+
     .card-back-position {
         position: absolute;
         top: -6%;
@@ -36,15 +41,51 @@
         background-color: #543078;
         z-index: 0;
     }
+    .btn-secondary{
+        background-color: #543078;
+    }
+    .btn-secondary:hover{
+        background-color: #331d49;
+    }
+
+    @@media only screen and (max-width:530px) {
+        #middleText {
+            font-size: small;
+        }
+
+        .imagebackground {
+            background-size: auto 100%;
+        }
+    }
+
+    @@media only screen and (max-width:800px) {
+        #middleText {
+            font-size: x-large;
+        }
+
+        .imagebackground {
+            background-size: auto 100%;
+
+        }
+
+    }
+
+    @@media only screen and (max-width:1200px) {
+        #middleText {
+            font-size: xx-large;
+        }
+
+    }
 </style>
 
 <div class="jumbotron-fluid imagebackground ">
-    <section class="h-100">
+    <section class="h-100 w-100">
         <table class="h-100">
             <tbody>
                 <tr>
                     <td class="align-middle">
-                        <h1 class="text-warp col-sm-12 col-md-11 col-lg-7">A LIBERDADE DE CONVERSAR COM O MUNDO INTEIRO
+                        <h1 id="middleText" class="text-warp col-12"
+                            style="text-align:center; text-justify:inter-word;">
                         </h1>
                     </td>
                 </tr>
@@ -52,61 +93,102 @@
         </table>
     </section>
 </div>
-    <hr>
-    <section class="h-100">
-        @* REMOVER O FOOTER FUTURAMENTE, QUANDO FOR REMOVIDO APAGAR ESTE COMENTÁRIO *@
-        <table class="h-100">
-            <h1 class="display-4 text-center " style="margin-bottom:10%">Nossa Equipe</h1>
-            <br>
-            <div class="row d-flex">
-                <div class="align-bottom col-md-4 order-sm-1 order-2">
-                    <div class="card card-position" style="">
-                        <div class="card-back-position"></div>
-                        <img class="card-img-top" src="~/media/paty.jpg" alt="Card image cap" style="border-radius: 50%; 
+<hr>
+<section class="h-100">
+    @* REMOVER O FOOTER FUTURAMENTE, QUANDO FOR REMOVIDO APAGAR ESTE COMENTÁRIO *@
+    <table class="h-100">
+        <h1 class="display-4 text-center " style="margin-bottom:10%">Nossa Equipe</h1>
+        <br>
+        <div class="row d-flex">
+            <div class="align-bottom col-md-4 order-sm-1 order-2" data-aos="fade-up" data-aos-duration="1500"
+                data-aos-offset="500">
+                <div class="card card-position" style="">
+                    <div class="card-back-position"></div>
+                    <img class="card-img-top" src="~/media/paty.jpg" alt="Card image cap" style="border-radius: 50%; 
                                     z-index: 2;">
-                        <div class="card-body">
-                            <h5 class="card-title text-center">Paty</h5>
-                            <p class="card-text text-center ">Professora</p>
-                        </div>
-                        <a href="#" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Patrícia Pires</h5>
+                        <p class="card-text text-center ">Teacher</p>
+                    </div>
+                    <a href="/About" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
                             width:100%;
                             box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
-                    </div>
                 </div>
+            </div>
 
-                <div class="align-middle col-md-4 order-sm-2 order-1">
+            <div class="align-middle col-md-4 order-sm-2 order-1" data-aos="fade-up" data-aos-duration="1500">
 
-                    <div class="card card-position" style="transform: translateY(-20px)">
-                        <div class="card-back-position"></div>
-                        <img class="card-img-top" src="~/media/lais.jpg" alt="Card image cap" style="border-radius: 50%; 
+                <div class="card card-position" style="transform: translateY(-20px)">
+                    <div class="card-back-position"></div>
+                    <img class="card-img-top" src="~/media/lais.jpg" alt="Card image cap" style="border-radius: 50%; 
                                     z-index: 2;">
-                        <div class="card-body">
-                            <h5 class="card-title text-center">Laís Mota</h5>
-                            <p class="card-text text-center ">Fundadora</p>
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Laís Mota</h5>
+                        <p class="card-text text-center ">Founder/Teacher</p>
 
-                        </div>
-                        <a href="#" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                    </div>
+                    <a href="/About" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
                             width:100%;
                             box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
-                    </div>
                 </div>
+            </div>
 
-                <div class="align-bottom col-md-4 order-3">
+            <div class="align-bottom col-md-4 order-3" data-aos="fade-up" data-aos-duration="1500"
+                data-aos-offset="500">
 
-                    <div class="card card-position" style="">
-                        <div class="card-back-position"></div>
-                        <img class="card-img-top" src="~/media/20210218_142559.jpg" alt="Card image cap" style="border-radius: 50%; 
+                <div class="card card-position" style="">
+                    <div class="card-back-position"></div>
+                    <img class="card-img-top" src="~/media/20210218_142559.jpg" alt="Card image cap" style="border-radius: 50%; 
                                     z-index: 2;">
-                        <div class="card-body">
-                            <h5 class="card-title text-center">Name</h5>
-                            <p class="card-text text-center ">Cargo</p>
-                        </div>
-                        <a href="#" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Natali Mota</h5>
+                        <p class="card-text text-center ">Teacher</p>
+                    </div>
+                    <a href="/About" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
                             width:100%;
                             box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
-                    </div>
                 </div>
-        </table>
-    </section>
+            </div>
+    </table>
+</section>
 
+<script>
+    let texts = ['A LIBERDADE DE CONVERSAR COM O MUNDO INTEIRO']
+    consoleText(texts, 'middleText', ['white'])
+    function consoleText(words, id, colors) {
+        if (colors === undefined) colors = ['#fff'];
+        var visible = true;
+        var con = document.getElementById('console');
+        var letterCount = 1;
+        var x = 1;
+        var waiting = false;
+        var target = document.getElementById(id)
+        target.setAttribute('style', 'color:' + colors[0])
+        window.setInterval(function () {
 
+            if (letterCount === 0 && waiting === false) {
+                waiting = true;
+                target.innerHTML = words[0].substring(0, letterCount)
+                window.setTimeout(function () {
+                    var usedColor = colors.shift();
+                    colors.push(usedColor);
+                    var usedWord = words.shift();
+                    words.push(usedWord);
+                    x = 1;
+                    target.setAttribute('style', 'color:' + colors[0])
+                    letterCount += x;
+                    waiting = false;
+                }, 1000)
+            } else if (waiting === false) {
+                target.innerHTML = words[0].substring(0, letterCount)
+                letterCount += x;
+            }
+        }, 120)
+
+    }
+</script>
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>

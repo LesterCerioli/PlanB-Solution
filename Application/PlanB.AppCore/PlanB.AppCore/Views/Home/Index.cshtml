@@ -41,10 +41,21 @@
         background-color: #543078;
         z-index: 0;
     }
-    .btn-secondary{
+
+    .posicao-button {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        position: relative;
+
+        margin: 20px auto 0 auto;
+    }
+
+    .btn-secondary {
         background-color: #543078;
     }
-    .btn-secondary:hover{
+
+    .btn-secondary:hover {
         background-color: #331d49;
     }
 
@@ -78,24 +89,35 @@
     }
 </style>
 
-<div class="jumbotron-fluid imagebackground ">
-    <section class="h-100 w-100">
-        <table class="h-100">
-            <tbody>
-                <tr>
-                    <td class="align-middle">
-                        <h1 id="middleText" class="text-warp col-12"
-                            style="text-align:center; text-justify:inter-word;">
-                        </h1>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+<div class="jumbotron-fluid imagebackground">
+    <section class="h-100 w-100 justify-content-center">
+        @* <div class=" align-self-center position-absolute m-auto ">
+            <div style="min-height:30%; min-width:20px">
+            <h1 id="middleText" class="text-warp" style="text-align:center; text-justify:inter-word; "></h1>
+            </div>
+            <div class="w-100 h-100 ">
+            <button type="button" class="btn btn-outline-light btn-lg posicao-button">Matricule-se Já</button>
+            </div>
+            </div> *@
+        <div class="d-flex justify-content-center " style="height:60%">
+            <div class="text-white mt-auto">
+
+                <h1 id="middleText" class="mb-3"></h1>
+
+
+            </div>
+        </div>
+        <div class="d-flex justify-content-center align-items-center " style="height:40%">
+            <div class="text-white mb-auto">
+                <a class="btn btn-outline-light btn-lg" href="#!" role="button">Matricule-se Já</a>
+            </div>
+        </div>
+
+
     </section>
 </div>
 <hr>
 <section class="h-100">
-    @* REMOVER O FOOTER FUTURAMENTE, QUANDO FOR REMOVIDO APAGAR ESTE COMENTÁRIO *@
     <table class="h-100">
         <h1 class="display-4 text-center " style="margin-bottom:10%">Nossa Equipe</h1>
         <br>
@@ -118,7 +140,7 @@
 
             <div class="align-middle col-md-4 order-sm-2 order-1" data-aos="fade-up" data-aos-duration="1500">
 
-                <div class="card card-position" style="transform: translateY(-20px)">
+                <div class="card card-position" style="transform: translateY(-10px)">
                     <div class="card-back-position"></div>
                     <img class="card-img-top" src="~/media/lais.jpg" alt="Card image cap" style="border-radius: 50%; 
                                     z-index: 2;">
@@ -176,6 +198,13 @@
                     words.push(usedWord);
                     x = 1;
                     target.setAttribute('style', 'color:' + colors[0])
+                    letterCount += x;
+                    waiting = false;
+                }, 1000)
+            } else if (letterCount === words[0].length + 1 && waiting === false) {
+                waiting = true;
+                window.setTimeout(function () {
+                    x = -1;
                     letterCount += x;
                     waiting = false;
                 }, 1000)

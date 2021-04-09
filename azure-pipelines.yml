@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 
 trigger:
-- Development2
+- fet/550
 
 pool:
   vmImage: 'windows-latest'

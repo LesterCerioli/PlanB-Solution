@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PlanB.AppCore.Controllers
 {
-    public class AccountController1 : Controller
+    public class AccountController : Controller
     {
         // GET: AccountController1
         public IActionResult Index()

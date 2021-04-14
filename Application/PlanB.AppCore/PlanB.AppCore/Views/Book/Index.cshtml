@@ -1,11 +1,11 @@
 @{
+
     ViewData["Title"] = "Index";
 }
 
 <h1>Livros</h1>
 
 <style>
-
     p {
         color: white;
     }
@@ -13,4 +13,20 @@
     h1 {
         color: white;
     }
+
+    iframe body{
+        display: none;
+    }
+    .insideIframe{
+
+    }
 </style>
+<div>
+    @* <iframe src='~/media/books/APOSTILA_ADVANCED_01.pdf' width='100%' height='623px' frameborder='0'></iframe> *@
+    <embed src="~/media/books/APOSTILA_ADVANCED_01.pdf" type="application/pdf">
+
+</div>
+
+<script>
+    
+</script>

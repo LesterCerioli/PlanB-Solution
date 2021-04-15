@@ -1,0 +1,73 @@
+.imagebackground {
+    background-image: url("../media/backgroundImage.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+    height: 80vh;
+    width: 100%;
+}
+
+.card-position {
+    width: auto;
+    position: relative;
+    z-index: 2;
+    padding: 30px;
+    border: none;
+    border-radius: 3px;
+    background-color: var(--subtheme2) !important;
+    box-shadow: 2px 2px 5px #000;
+}
+
+.card-position:hover {
+    background-color: #e29f5c;
+}
+
+.card-back-position {
+    position: absolute;
+    top: -6%;
+    left: -6%;
+    width: 110%;
+    height: 40%;
+    background-color: var(--theme) !important;
+    z-index: 0;
+}
+
+.posicao-button {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    position: relative;
+    margin: 20px auto 0 auto;
+}
+
+.btn-secondary {
+    background-color: var(--theme) !important;
+}
+
+.btn-secondary:hover {
+    background-color: var(--subtheme) !important;
+}
+
+@media only screen and (max-width:530px) {
+    #middleText {
+        font-size: small;
+    }
+    .imagebackground {
+        background-size: auto 100%;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #middleText {
+        font-size: x-large;
+    }
+    .imagebackground {
+        background-size: auto 100%;
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    #middleText {
+        font-size: xx-large;
+    }
+}

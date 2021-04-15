@@ -14,7 +14,7 @@
     padding: 30px;
     border: none;
     border-radius: 3px;
-    background-color: #E78524;
+    background-color: var(--subtheme2) !important;
     box-shadow: 2px 2px 5px #000;
 }
 
@@ -28,7 +28,7 @@
     left: -6%;
     width: 110%;
     height: 40%;
-    background-color: #543078;
+    background-color: var(--theme) !important;
     z-index: 0;
 }
 
@@ -41,11 +41,11 @@
 }
 
 .btn-secondary {
-    background-color: #543078;
+    background-color: var(--theme) !important;
 }
 
 .btn-secondary:hover {
-    background-color: #331d49;
+    background-color: var(--subtheme) !important;
 }
 
 @media only screen and (max-width:530px) {

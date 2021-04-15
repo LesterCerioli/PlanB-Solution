@@ -7,98 +7,13 @@
     h5 {
         color: white;
     }
-
-    .imagebackground {
-        background-image: url("../media/backgroundImage.png");
-        background-repeat: no-repeat;
-        background-position: center bottom;
-        background-size: contain;
-        height: 80vh;
-        width: 100%;
-    }
-
-    .card-position {
-        width: auto;
-        position: relative;
-        z-index: 2;
-        padding: 30px;
-        border: none;
-        border-radius: 3px;
-        background-color: #E78524;
-        box-shadow: 2px 2px 5px #000;
-    }
-
-    .card-position:hover {
-        background-color: #e29f5c;
-    }
-
-    .card-back-position {
-        position: absolute;
-        top: -6%;
-        left: -6%;
-        width: 110%;
-        height: 40%;
-        background-color: #543078;
-        z-index: 0;
-    }
-
-    .posicao-button {
-        display: flex;
-        justify-content: center;
-        align-self: center;
-        position: relative;
-
-        margin: 20px auto 0 auto;
-    }
-
-    .btn-secondary {
-        background-color: #543078;
-    }
-
-    .btn-secondary:hover {
-        background-color: #331d49;
-    }
-
-    @@media only screen and (max-width:530px) {
-        #middleText {
-            font-size: small;
-        }
-
-        .imagebackground {
-            background-size: auto 100%;
-        }
-    }
-
-    @@media only screen and (max-width:800px) {
-        #middleText {
-            font-size: x-large;
-        }
-
-        .imagebackground {
-            background-size: auto 100%;
-
-        }
-
-    }
-
-    @@media only screen and (max-width:1200px) {
-        #middleText {
-            font-size: xx-large;
-        }
-
-    }
 </style>
+
+<link rel="stylesheet" href="~/css/home.css">
 
 <div class="jumbotron-fluid imagebackground">
     <section class="h-100 w-100 justify-content-center">
-        @* <div class=" align-self-center position-absolute m-auto ">
-            <div style="min-height:30%; min-width:20px">
-            <h1 id="middleText" class="text-warp" style="text-align:center; text-justify:inter-word; "></h1>
-            </div>
-            <div class="w-100 h-100 ">
-            <button type="button" class="btn btn-outline-light btn-lg posicao-button">Matricule-se Já</button>
-            </div>
-            </div> *@
+
         <div class="d-flex justify-content-center " style="height:60%">
             <div class="text-white mt-auto">
 
@@ -132,7 +47,7 @@
                         <h5 class="card-title text-center">Patrícia Pires</h5>
                         <p class="card-text text-center ">Teacher</p>
                     </div>
-                    <a href="/About" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                    <a href="/About#ref1" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
                             width:100%;
                             box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
                 </div>
@@ -149,7 +64,7 @@
                         <p class="card-text text-center ">Founder/Teacher</p>
 
                     </div>
-                    <a href="/About" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                    <a href="/About#ref2" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
                             width:100%;
                             box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
                 </div>
@@ -166,7 +81,7 @@
                         <h5 class="card-title text-center">Natali Mota</h5>
                         <p class="card-text text-center ">Teacher</p>
                     </div>
-                    <a href="/About" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
+                    <a href="/About#ref3" class="btn btn-secondary position-absolute-bottom" style="border-radius: 5px 5px 5px 5px;
                             width:100%;
                             box-shadow: 2px 2px 5px #000;">Saiba Mais</a>
                 </div>
@@ -216,8 +131,4 @@
 
     }
 </script>
-<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-    AOS.init();
-</script>
+

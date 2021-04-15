@@ -5,11 +5,11 @@
 <h1>Dúvidas frequentes</h1>
 
 <style>
+  a:hover {
+    color: white;
+    text-decoration: none
+  }
 
-a:hover {
-  color:white;
-  text-decoration:none
-}
   p {
     color: white;
   }
@@ -17,46 +17,26 @@ a:hover {
   h1 {
     color: white;
   }
-
-  #my-div {
-    width: 100%;
-    height: 60px;
-    background-color: #321e46;
-    text-align: center;
-    border-radius:15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-  }
-  #my-div:hover {
-      background-color: #E78524;
-  }
-  .card {
-    background-color: rgba(50, 30, 70,0.5);
-    padding: 15px;
-    margin: 5px;    
-    border-radius:15px; 
-  }
-
 </style>
+<link rel="stylesheet" href="~/css/askquest.css">
 <br><br>
 <div class="container">
   <div class="row">
-    <div class="col-md-6">  <!--Colunas de duvidas-->
+    <div class="col-md-6">
+      <!--Colunas de duvidas-->
 
       <div id="my-div">
-          <a class="faq" data-toggle="collapse" href="#faq-1" role="button" aria-expanded="false"
-            aria-controls="faq-1">QUAIS OS TIPOS DE CURSO QUE A PLAN B OFERECE?</a>
+        <a class="faq" data-toggle="collapse" href="#faq-1" role="button" aria-expanded="false"
+          aria-controls="faq-1">QUAIS OS TIPOS DE CURSO QUE A PLAN B OFERECE?</a>
       </div>
       <div class="collapse card" id="faq-1">
-         <p>Cursos de Inglês.</p>
+        <p>Cursos de Inglês.</p>
 
-         <p>Curso regular – do básico ao avançado. 1 ano de duração.</p>
+        <p>Curso regular – do básico ao avançado. 1 ano de duração.</p>
 
-         <p>Curso Intensivo – 3 meses de duração.</p>
+        <p>Curso Intensivo – 3 meses de duração.</p>
 
-         <p>Curso Upper – renova-se mensalmente.</p> 
+        <p>Curso Upper – renova-se mensalmente.</p>
       </div>
 
       <br>
@@ -89,19 +69,19 @@ a:hover {
           aria-controls="faq-4">QUANTOS LIVROS TEREI QUE COMPRAR? QUAL VALOR DOS LIVROS?</a>
       </div>
       <div class="collapse card" id="faq-4">
-        <p>A Plan B usa 5 livros, no Curso Regular, criados pela Teacher Lais Mota.</p>   
+        <p>A Plan B usa 5 livros, no Curso Regular, criados pela Teacher Lais Mota.</p>
 
-        <p>São eles:</p> 
+        <p>São eles:</p>
 
-        <p>Basico 1 - R$ 10,00</p> 
+        <p>Basico 1 - R$ 10,00</p>
 
-        <p>Básico 2 - R$ 10,00</p>  
+        <p>Básico 2 - R$ 10,00</p>
 
-        <p>Intermediate level - R$ 10,00</p>  
+        <p>Intermediate level - R$ 10,00</p>
 
         <p>Advanced 1- R$ 10,00</p>
 
-        <p>Advanced 2- R$ 10,00</p>  
+        <p>Advanced 2- R$ 10,00</p>
 
         <p>Não é necessária a compra de todos os livros de uma vez. Você pode comprar apenas o livro do seu nível!</p>
 
@@ -116,7 +96,8 @@ a:hover {
       </div>
       <div class="collapse card" id="faq-5">
         <p>Três vezes.</p>
-        <p>Após a efetivação do pagamento do livro o download inicia automaticamente. Caso você perca o arquivo, o seu portal do aluno oferece uma segunda chance para baixá-lo sem custo extra.</p>
+        <p>Após a efetivação do pagamento do livro o download inicia automaticamente. Caso você perca o arquivo, o seu
+          portal do aluno oferece uma segunda chance para baixá-lo sem custo extra.</p>
       </div>
 
       <br>
@@ -138,19 +119,20 @@ a:hover {
           aria-controls="faq-7">QUANTAS VEZES POSSO FAZER O TESTE DE NIVELAMENTO?</a>
       </div>
       <div class="collapse card" id="faq-7">
-          <p>Quantas vezes quiser! Have fun! </p>
+        <p>Quantas vezes quiser! Have fun! </p>
       </div>
 
       <br>
-    </div>  
+    </div>
 
-    <div class="col-md-6">    <!--Colunas de duvidas-->
+    <div class="col-md-6">
+      <!--Colunas de duvidas-->
       <div id="my-div">
         <a class="faq" data-toggle="collapse" href="#faq-8" role="button" aria-expanded="false"
           aria-controls="faq-8">TODOS OS CURSOS OFERECEM CERTIFICADO?</a>
       </div>
       <div class="collapse card" id="faq-8">
-        <p>Sim. Ao término de cada curso (ou nível) você recebera via e-mail ou correios um certificado da Plan B. 
+        <p>Sim. Ao término de cada curso (ou nível) você recebera via e-mail ou correios um certificado da Plan B.
         </p>
       </div>
 
@@ -162,11 +144,13 @@ a:hover {
           aria-controls="faq-9">COMO FUNCIONAM AS AULAS?</a>
       </div>
       <div class="collapse card" id="faq-9">
-      <p>As aulas acontecem 1x por semana. Via chamada de vídeo através da plataforma “meet” do Google.</p>  
+        <p>As aulas acontecem 1x por semana. Via chamada de vídeo através da plataforma “meet” do Google.</p>
 
-      <p>O link para as aulas será liberado 10min antes da aula no seu portal do aluno e/ou no grupo da sua turma que será criado no whatsapp.</p>  
+        <p>O link para as aulas será liberado 10min antes da aula no seu portal do aluno e/ou no grupo da sua turma que
+          será criado no whatsapp.</p>
 
-      <p>A aula tem duração de 1h. Cada aula aborda um capítulo do livro! Você pratica a gramática, leitura, conversação e faz todos os exercícios junto com a teacher.</p>  
+        <p>A aula tem duração de 1h. Cada aula aborda um capítulo do livro! Você pratica a gramática, leitura,
+          conversação e faz todos os exercícios junto com a teacher.</p>
       </div>
 
       <br>
@@ -178,15 +162,16 @@ a:hover {
       </div>
       <div class="collapse card" id="faq-10">
 
-      <p>As aulas de conversação acontecem semanalmente. Todos os alunos podem participar e as aulas de conversação estão inclusas na sua mensalidade.</p>  
+        <p>As aulas de conversação acontecem semanalmente. Todos os alunos podem participar e as aulas de conversação
+          estão inclusas na sua mensalidade.</p>
 
-      <p>Podendo ser trabalhados; vídeos, textos, animação de slides, jogos, dinâmicas etc.</p>  
+        <p>Podendo ser trabalhados; vídeos, textos, animação de slides, jogos, dinâmicas etc.</p>
 
-      <p>emos 3 niveis de conversação: Basic: para alunos do basic ½</p>  T
+        <p>emos 3 niveis de conversação: Basic: para alunos do basic ½</p> T
 
-      <p>Intermediate: para alunos do basic 2 e intermediate</p>  
+        <p>Intermediate: para alunos do basic 2 e intermediate</p>
 
-      <p>Advanced: para alunos do advanced 1/2, Intensivo e Upper.</p>   
+        <p>Advanced: para alunos do advanced 1/2, Intensivo e Upper.</p>
       </div>
 
       <br>
@@ -197,7 +182,7 @@ a:hover {
           aria-controls="faq-11">COMO REMARCAR MINHA AULA?</a>
       </div>
       <div class="collapse card" id="faq-11">
-          <p>Você consegue remarcar aulas e fazer reposições no seu portal do aluno.</p>
+        <p>Você consegue remarcar aulas e fazer reposições no seu portal do aluno.</p>
       </div>
 
       <br>
@@ -208,7 +193,9 @@ a:hover {
           aria-controls="faq-12">COMO SABEREI QUEM SERA A MINHA TEACHER? POSSO ESCOLHER MINHA TEACHER?</a>
       </div>
       <div class="collapse card" id="faq-12">
-        <p>As turmas são distribuídas igualmente para as nossas 3 teachers, de acordo com a disponibilidade de cada uma. No seu portal do aluno você pode deixar uma mensagem especificando a teacher com quem gostaria de ter aulas, e vamos fazer o máximo para atender o seu pedido.</p>
+        <p>As turmas são distribuídas igualmente para as nossas 3 teachers, de acordo com a disponibilidade de cada uma.
+          No seu portal do aluno você pode deixar uma mensagem especificando a teacher com quem gostaria de ter aulas, e
+          vamos fazer o máximo para atender o seu pedido.</p>
       </div>
 
       <br>
@@ -219,7 +206,7 @@ a:hover {
           aria-controls="faq-13">COMO CANCELAR/TRANCAR O CURSO?</a>
       </div>
       <div class="collapse card" id="faq-13">
-          <p>Você pode cancelar e ou trancar o curso a qualquer momento no seu portal do aluno. </p>
+        <p>Você pode cancelar e ou trancar o curso a qualquer momento no seu portal do aluno. </p>
       </div>
 
 

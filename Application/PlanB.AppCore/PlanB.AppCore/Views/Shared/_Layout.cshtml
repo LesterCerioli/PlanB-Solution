@@ -14,11 +14,19 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    
+
 
 </head>
 
-<body style="margin-bottom:0">
+<body style="margin-bottom:0" onload="loading()">
+
+
+    <div id="loading-spinner" class="d-flex justify-content-center fixed-center h-100"
+        style="background-color: white; height: 100vh">
+        <div class="spinner-border" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 ">
             <div class="container d-flex">
@@ -110,11 +118,16 @@
         <div class="container p-0 pb-2">
             <!-- Section: Social media -->
             <section class="d-flex justify-content-center ">
-                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="Book" asp-action="Index">Livros</a>
-                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="AskQuest" asp-action="Index">Dúvidas</a>
-                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="Course" asp-action="Index">Cursos</a>
-                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a>
-                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="About" asp-action="Index">Sobre nós</a>
+                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="Book"
+                    asp-action="Index">Livros</a>
+                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area=""
+                    asp-controller="AskQuest" asp-action="Index">Dúvidas</a>
+                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area=""
+                    asp-controller="Course" asp-action="Index">Cursos</a>
+                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="Home"
+                    asp-action="Contato">Contato</a>
+                <a class="nav-link text-white" style="padding-right: .2em !important" asp-area="" asp-controller="About"
+                    asp-action="Index">Sobre nós</a>
 
             </section>
             <!-- Section: Social media -->
@@ -130,6 +143,9 @@
     </footer>
     <script>
         AOS.init();
+        function loading() {
+            $("#loading-spinner").removeClass("d-flex").addClass("d-none");
+        }
     </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

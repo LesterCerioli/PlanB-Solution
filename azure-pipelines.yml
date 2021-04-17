@@ -33,24 +33,7 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- job: Windows
-  pool:
-    vmImage: 'windows-2019'
-  steps:
-  - task: UseDotNet@2
-    displayName: 'Use .NET Core sdk'
-    inputs:
-      packageType: 'sdk'
-      version: '5.0.100'
-  - task: DotNetCoreCLI@2
-    displayName: 'Restoring code using dotnet restore'
-    inputs: 
-      command: 'restore'
-      projects: '**/*/*.csproj'
-      includeNuGetOrg: true
-  - script: dotnet build '$(solution)'
-    displayName: 'dotnet build'
-  - task: DotNetCoreCLI@2
+- task: DotNetCoreCLI@2
     displayName: 'run tests'
     inputs:
       command: test
@@ -70,3 +53,11 @@ steps:
     inputs:
       codeCoverageTool: Cobertura
       summaryFileLocation: $(Build.SourcesDirectory)/coverlet/reports/Cobertura.xml  
+
+
+
+
+
+
+
+

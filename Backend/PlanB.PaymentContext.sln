@@ -31,13 +31,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Commons", "Applicatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Commons", "Commons", "{2B59F36F-3AF2-45BF-8E3E-5C2B2D736BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Commons.Tests", "Tests\Commons\PlanB.Commons.Tests\PlanB.Commons.Tests.csproj", "{6314A3CD-96D2-4931-BC68-A26A82C151E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Commons.Tests", "Tests\Commons\PlanB.Commons.Tests\PlanB.Commons.Tests.csproj", "{6314A3CD-96D2-4931-BC68-A26A82C151E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.PaymentContext.Module.Payment", "Application\Modules\PlanB.PaymentContext.Module.Payment\PlanB.PaymentContext.Module.Payment.csproj", "{0C5F96B3-4B4F-4F1A-965D-622B568F83DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.PaymentContext.Module.Payment", "Application\Modules\PlanB.PaymentContext.Module.Payment\PlanB.PaymentContext.Module.Payment.csproj", "{0C5F96B3-4B4F-4F1A-965D-622B568F83DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payment", "Payment", "{B6BD1E22-B8CC-4451-BEE5-FB258143F101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.PaymentContext.Payment.Tests", "Tests\Modules\Payment\PlanB.PaymentContext.Payment.Tests\PlanB.PaymentContext.Payment.Tests.csproj", "{47EB67C9-2DBD-4DCA-8367-8090D1343535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.PaymentContext.Payment.Tests", "Tests\Modules\Payment\PlanB.PaymentContext.Payment.Tests\PlanB.PaymentContext.Payment.Tests.csproj", "{47EB67C9-2DBD-4DCA-8367-8090D1343535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.PaymentContext.Module.Cms", "Application\Modules\PlanB.PaymentContext.Module.Cms\PlanB.PaymentContext.Module.Cms.csproj", "{71D59387-6427-47CD-8235-38B962EE400A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cms", "Cms", "{FCEEF72D-3423-41DD-AFCF-410E59A59A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.PaymentContext.Cms.Tests", "Tests\Modules\Cms\PlanB.PaymentContext.Cms.Tests\PlanB.PaymentContext.Cms.Tests.csproj", "{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,6 +151,30 @@ Global
 		{47EB67C9-2DBD-4DCA-8367-8090D1343535}.Release|x64.Build.0 = Release|Any CPU
 		{47EB67C9-2DBD-4DCA-8367-8090D1343535}.Release|x86.ActiveCfg = Release|Any CPU
 		{47EB67C9-2DBD-4DCA-8367-8090D1343535}.Release|x86.Build.0 = Release|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Debug|x64.Build.0 = Debug|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Debug|x86.Build.0 = Debug|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Release|x64.ActiveCfg = Release|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Release|x64.Build.0 = Release|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Release|x86.ActiveCfg = Release|Any CPU
+		{71D59387-6427-47CD-8235-38B962EE400A}.Release|x86.Build.0 = Release|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Debug|x64.Build.0 = Debug|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Release|x64.ActiveCfg = Release|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Release|x64.Build.0 = Release|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +196,9 @@ Global
 		{0C5F96B3-4B4F-4F1A-965D-622B568F83DC} = {F573DB06-11B2-46A9-B32A-2538A66A624C}
 		{B6BD1E22-B8CC-4451-BEE5-FB258143F101} = {800D1897-5C2C-422F-AA18-D46700D193EC}
 		{47EB67C9-2DBD-4DCA-8367-8090D1343535} = {B6BD1E22-B8CC-4451-BEE5-FB258143F101}
+		{71D59387-6427-47CD-8235-38B962EE400A} = {F573DB06-11B2-46A9-B32A-2538A66A624C}
+		{FCEEF72D-3423-41DD-AFCF-410E59A59A96} = {800D1897-5C2C-422F-AA18-D46700D193EC}
+		{BBA78B79-3E2D-476D-A0CE-E004CA84C83D} = {FCEEF72D-3423-41DD-AFCF-410E59A59A96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2DF5A95-82FC-4DFF-ACBA-BA8181F57B48}

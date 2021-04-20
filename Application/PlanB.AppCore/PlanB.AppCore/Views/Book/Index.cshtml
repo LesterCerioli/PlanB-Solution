@@ -1,34 +1,128 @@
 @{
 
     ViewData["Title"] = "Index";
+
+    void Books(string src)
+    {
+        <div class="book">
+            <div class="back"><img width="100%" height="100%" src="@src" alt=""></div>
+            <div class="page6">
+                <div class="row">
+                    <div class="col-1"></div>
+
+                </div>
+                <div class="w-100 row">
+                    <div class="col-1"></div>
+                    <div class="col">
+                        <hr>
+                        <hr>
+                        <h5 class="text-center">Apostila Avançada 1</h5>
+                        <hr>
+
+
+                        <strong>
+                            <p>1. sub titles 1</p>
+                        </strong>
+
+                        <p>Alguma coisa aa a a a a a a a a</p>
+
+                        <strong>
+                            <p>2. sub titles 1</p>
+                        </strong>
+
+
+                        <strong>
+                            <p>3. sub titles 1</p>
+                        </strong>
+
+
+                        <strong>
+                            <p>4. sub titles 1</p>
+                        </strong>
+
+
+                        <hr>
+
+                    </div>
+                    <div class="col-1"></div>
+
+                </div>
+                <div class="row">
+
+                </div>
+            </div>
+            <div class="page5">
+                <table style="height: 100px;">
+                    <tbody>
+                        <tr>
+                            <td class="align-middle"><img class="w-100" style="transform: scaleX(-1)" src="media/logoPlanB.png"
+                                alt="img" /></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+
+            </div>
+            <div class="page4">a4</div>
+            <div class="page3">a3</div>
+            <div class="page2">a2</div>
+            <div class="page1">a1</div>
+            <div class="front"><img width="100%" height="100%" src="@src" alt=""></div>
+        </div>
+    }
 }
 
 
 <style>
     p {
-        color: white;
+        color: black;
+        line-height: .7;
+        transform-style: preserve-3d;
+        transform-origin: left center;
+    }
+
+    ol {
+        line-height: .7;
     }
 
     h1 {
-        color: white;
+        color: black;
     }
 </style>
 <link rel="stylesheet" href="~/css/book.css">
+
+
 
 <div class="" style="min-height:80vh;">
 
     <div id="carouselControls" class="carousel slide" data-interval="false" data-ride="carousel">
         <div class="carousel-inner d-flex justify-content-center ">
             <div class="carousel-item active">
-                <h1 class="d-block w-100">text1</h1>
-                @* <img class="d-block w-100" src="..." alt="First slide"> *@
+                @{
+                    Books("media/books/Capa-Apostila-Basic-01.jpg");
+                }
             </div>
             <div class="carousel-item">
-                <h1 class="d-block w-100">text2</h1>
+                @{
+                    Books("media/books/Capa-Apostila-Basic-02.jpg");
+                }
             </div>
             <div class="carousel-item">
-                <h1 class="d-block w-100">text3</h1>
+                @{
+                    Books("media/books/Capa-Apostila-Intermediate.jpg");
+                }
             </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Advanced-01.jpg");
+                }
+            </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Advanced-02.jpg");
+                }
+            </div>
+
         </div>
         <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -46,7 +140,7 @@
             Comprar
         </but>
     </div>
-    <div class="collapse carousel-root p-5" id="formPayments" >
+    <div class="collapse carousel-root p-5" id="formPayments">
         <form>
             <div class="form-row">
                 <div class="form-group col-md-6">
@@ -106,6 +200,8 @@
 
 </div>
 
+
+@section Scripts{
 <script>
     let clickStatus = true;
     $("#buttonClick").on("click", () => {
@@ -120,6 +216,5 @@
         clickStatus = !clickStatus;
 
     })
-
-
 </script>
+}

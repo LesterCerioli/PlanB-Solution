@@ -1,0 +1,5 @@
+.carousel-root {
+    background-color: var(--subtheme);
+    border-radius: 10px;
+    color: white;
+}

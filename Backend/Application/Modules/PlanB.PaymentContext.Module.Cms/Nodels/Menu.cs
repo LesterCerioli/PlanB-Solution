@@ -6,12 +6,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlanB.PaymentContext.Module.Cms.Models
+namespace PlanB.PaymentContext.Module.Cms.Nodels
 {
     public class Menu : EntityBase
     {
-        
-        
         public Menu()
         {
 
@@ -21,8 +19,8 @@ namespace PlanB.PaymentContext.Module.Cms.Models
         {
             Id = id;
         }
-        
-        
+
+
         [Required(ErrorMessage = "The {0} field is required.")]
         [StringLength(450)]
         public string Name { get; set; }
@@ -33,6 +31,4 @@ namespace PlanB.PaymentContext.Module.Cms.Models
 
         public IList<MenuItem> MenuItems { get; protected set; } = new List<MenuItem>();
     }
-
 }
-

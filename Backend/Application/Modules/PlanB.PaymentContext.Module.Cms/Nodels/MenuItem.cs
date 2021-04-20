@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlanB.PaymentContext.Module.Cms.Models
+namespace PlanB.PaymentContext.Module.Cms.Nodels
 {
     public class MenuItem : EntityBase
     {

@@ -3,7 +3,6 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Livros</h1>
 
 <style>
     p {
@@ -13,14 +12,114 @@
     h1 {
         color: white;
     }
-
-
-
 </style>
-<div>
+<link rel="stylesheet" href="~/css/book.css">
+
+<div class="" style="min-height:80vh;">
+
+    <div id="carouselControls" class="carousel slide" data-interval="false" data-ride="carousel">
+        <div class="carousel-inner d-flex justify-content-center ">
+            <div class="carousel-item active">
+                <h1 class="d-block w-100">text1</h1>
+                @* <img class="d-block w-100" src="..." alt="First slide"> *@
+            </div>
+            <div class="carousel-item">
+                <h1 class="d-block w-100">text2</h1>
+            </div>
+            <div class="carousel-item">
+                <h1 class="d-block w-100">text3</h1>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+    <div class="d-flex justify-content-center mb-3 mt-5">
+        <but id="buttonClick" class="btn btn-primary" type="button" data-toggle="collapse" data-target="#formPayments"
+            aria-expanded="false" aria-controls="collapseExample">
+            Comprar
+        </but>
+    </div>
+    <div class="collapse carousel-root p-5" id="formPayments" >
+        <form>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">Email</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">Password</label>
+                    <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputAddress">Endereço</label>
+                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+            </div>
+            <div class="form-group">
+                <label for="inputAddress2">Complemento</label>
+                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputCity">Cidade</label>
+                    <input type="text" class="form-control" id="inputCity">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputState">Estado</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>...</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="inputZip">Zip</label>
+                    <input type="text" class="form-control" id="inputZip">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="inputState">Livro</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>...</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck">
+                    <label class="form-check-label" for="gridCheck">
+                        Termos
+                    </label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Confirmar</button>
+        </form>
+    </div>
 
 </div>
 
 <script>
-    
+    let clickStatus = true;
+    $("#buttonClick").on("click", () => {
+        if (clickStatus) {
+            let but = $("#buttonClick").html("Cancelar")
+            but.removeClass("btn-primary").addClass("btn-danger")
+
+        } else {
+            let but = $("#buttonClick").html("Comprar")
+            but.removeClass("btn-danger").addClass("btn-primary")
+        }
+        clickStatus = !clickStatus;
+
+    })
+
+
 </script>

@@ -33,13 +33,3 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: AzureRmWebAppDeployment@4
-  inputs:
-    ConnectionType: 'AzureRM'
-    azureSubscription: 'Azure subscription 1(db403d7d-87b6-4d8f-99d1-187107ee4936)'
-    appType: 'webAppLinux'
-    WebAppName: 'planbidiomasapp-testing'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
-    RuntimeStack: 'DOTNETCORE|5.0'
-    StartupCommand: 'dotnet run'
-

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Bus\PlanB.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\PlanB.Domain.Core\PlanB.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

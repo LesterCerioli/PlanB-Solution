@@ -2,18 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\PlanB.AppCore</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\media\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\3-Application\PlanB.Application\PlanB.Application.csproj" />
+    <ProjectReference Include="..\..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Bus\PlanB.CrossCutting.Bus.csproj" />
     <ProjectReference Include="..\..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Identity\PlanB.CrossCutting.Identity.csproj" />
     <ProjectReference Include="..\..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.IoC\PlanB.CrossCutting.IoC.csproj" />
   </ItemGroup>

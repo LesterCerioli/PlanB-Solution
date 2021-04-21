@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
@@ -9,6 +10,6 @@ namespace PlanB.Infrastructure.Data
 {
     public interface ICustomModelBuilder
     {
-        void Build(ModuleBuilder modelBuilder);
+        void Build(ModelBuilder modelBuilder);
     }
 }

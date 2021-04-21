@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PlanB.Infrastructure
+namespace PlanB.Domain
 {
     public class Class1
     {

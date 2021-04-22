@@ -4,11 +4,17 @@
 
     @* return data form books *@
 
-
     void Books(string src, List<string> subtitles)
     {
+
+
         <div class="book">
-            <div class="back"><img width="100%" height="100%" src="@src" alt=""></div>
+            <div class="back">
+
+                <img width="100%" height="100%" src="@src" alt="">
+
+
+            </div>
             <div class="page6">
                 <div class="row">
                     <div class="col-1"></div>
@@ -16,13 +22,15 @@
                 </div>
                 <div class="w-100 row">
                     <div class="col-1"></div>
-                    <div class="col">
+
+                    <div id="summary" class="col text-dark">
+
                         <hr>
-                        <h5 class="text-center">Sumário</h5>
+                        <h5 class="text-center text-dark">Sumário</h5>
                         <hr>
                         @foreach (var (subtitle, index) in subtitles.Select((value, i) => (value, i)))
                         {
-                            <p>@(index+1). @subtitle</p>
+                            <p class="text-dark">@(index+1). @subtitle</p>
                         }
                         <hr>
 
@@ -38,18 +46,22 @@
             <div class="page3"></div>
             <div class="page2"></div>
             <div class="page1"></div>
-            <div class="front"><img width="100%" height="100%" src="@src" alt=""></div>
+            <div class="front">
+
+                <img width="100%" height="100%" src="@src" alt="">
+
+            </div>
         </div>
+
     }
 }
 
 
 <style>
     p {
-        color: black;
+        color: white;
         line-height: .7;
         font-size: .8em;
-
     }
 
     h1 {
@@ -128,27 +140,28 @@
             </div>
 
         </div>
-        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev"
+            onclick="closeInfo();refreshinfo();">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Anterior</span>
         </a>
-        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next"
+            onclick="closeInfo();refreshinfo();">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Próximo</span>
         </a>
     </div>
 
-
     <div class="d-flex justify-content-center mb-3 mt-5">
         <button id="buttonClickInfo" class="btn btn-primary" type="button" data-toggle="collapse"
-            data-target="#informations" aria-expanded="false" aria-controls="collapseExample">
+            data-target="#informations" aria-expanded="false" onclick="refreshinfo(); clickedInfo=!clickedInfo" ;"
+            aria-controls="collapseExample">
             Informações
         </button>
     </div>
 
+    <div class="collapse carousel-root p-5 text-light" id="informations" style="color:white !important;">
 
-    <div class="collapse carousel-root p-5" id="informations">
-        teste
     </div>
 
     <div class="d-flex justify-content-center mb-3 mt-5">
@@ -220,8 +233,11 @@
 
 
 @section Scripts{
+
+
 <script>
     let clickStatus = true;
+    let clickedInfo = false;
     $("#buttonClick").on("click", () => {
         if (clickStatus) {
             let but = $("#buttonClick").html("Cancelar")
@@ -232,19 +248,28 @@
             but.removeClass("btn-danger").addClass("btn-primary")
         }
         clickStatus = !clickStatus;
-
     })
     $("#buttonClickInfo").on("click", () => {
         if (clickStatus) {
             let but = $("#buttonClickInfo").html("Fechar")
-            but.removeClass("btn-primary").addClass("btn-secundary")
+            but.removeClass("btn-primary").addClass("btn-danger")
 
         } else {
             let but = $("#buttonClickInfo").html("Informações")
-            but.removeClass("btn-secundary").addClass("btn-primary")
+            but.removeClass("btn-danger").addClass("btn-primary")
         }
         clickStatus = !clickStatus;
-
     })
+
+    function closeInfo() {
+        $('#informations').collapse('hide');
+        let but = $("#buttonClickInfo").html("Informações");
+        but.removeClass("btn-danger").addClass("btn-primary");
+    }
+
+    function refreshinfo() {
+        $("#informations").html($(".active").find("#summary").html())
+    }
 </script>
+
 }

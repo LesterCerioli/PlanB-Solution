@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlanB.Domain.Core.ValueObjects
+namespace PlanB.Domain.Enums
 {
-    public abstract class ValueObject
+    public enum EDocumentType
     {
-        
+        CPF = 1,
+        CNPJ = 2
     }
 }

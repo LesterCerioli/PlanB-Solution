@@ -1,23 +1,21 @@
-﻿using PlanB.Domain.Core.ValueObjects;
-using PlanB.Domain.Enums;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using NetDevPack.Domain;
+using PlanB.Domain.Enums;
 
-namespace PlanB.Domain.ValueObjectss
+namespace PlanB.Domain.Entities
 {
-    public class Document : ValueObject
+    public class DocumentK : Entity, IAggregateRoot
     {
-        public Document(string number, EDocumentType type)
+        public DocumentK(Guid id, string number, EDocumentType type)
         {
+            Id = id;
             Number = number;
             Type = type;
 
             
         }
 
+        protected DocumentK() {}
         public string Number { get; private set; }
         public EDocumentType Type { get; private set; }
 
@@ -31,5 +29,6 @@ namespace PlanB.Domain.ValueObjectss
 
             return false;
         }
+        
     }
 }

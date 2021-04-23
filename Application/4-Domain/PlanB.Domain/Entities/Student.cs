@@ -1,5 +1,4 @@
 ﻿using NetDevPack.Domain;
-using PlanB.Domain.ValueObjectss;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,21 +11,24 @@ namespace PlanB.Domain.Entities
     {
         private IList<Subscription> _subscriptions;
 
-        public Student(Name name, Document document, Email email)
+        public Student(Guid id, string cPF, string firstName, string lastname)
         {
-            Name = name;
-            Document = document;
-            Email = email;
+            
+            Id = id;
+            CPF = cPF;
             _subscriptions = new List<Subscription>();
+            FirstName = firstName;
+            LastName = lastname;
 
             
         }
 
-        public Name Name { get; private set; }
-        public Document Document { get; private set; }
-        public Email Email { get; private set; }
-        public Address Address { get; private set; }
+        protected Student() { }
+            
+        public string CPF { get; private set; }
         public IReadOnlyCollection<Subscription> Subscriptions { get { return _subscriptions.ToArray(); } }
+        public string FirstName { get; private set; }
+        public string LastName { get; private set; }
 
         public void AddSubscription(Subscription subscription)
         {

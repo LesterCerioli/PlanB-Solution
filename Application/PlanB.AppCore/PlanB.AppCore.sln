@@ -11,51 +11,51 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.App.XUnit.Tests", "..
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Services", "2-Services", "{9A39DB5B-C87B-479F-B706-FA50D300B616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Services.Api", "..\2-Services\PlanB.Services.Api\PlanB.Services.Api.csproj", "{94606FE4-0664-43EC-99F7-60B8915BA9A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Services.Api", "..\2-Services\PlanB.Services.Api\PlanB.Services.Api.csproj", "{94606FE4-0664-43EC-99F7-60B8915BA9A2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Application", "3-Application", "{0097F1A9-98ED-49AE-A01B-05F68EA3C8F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Application", "..\3-Application\PlanB.Application\PlanB.Application.csproj", "{97E7CA2A-00E6-4A96-A66A-B0B6B94EB5B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Application", "..\3-Application\PlanB.Application\PlanB.Application.csproj", "{97E7CA2A-00E6-4A96-A66A-B0B6B94EB5B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Domain", "4-Domain", "{C60D9935-4E56-45F0-ABCB-417F2388DB6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Domain", "..\4-Domain\PlanB.Domain\PlanB.Domain.csproj", "{AD2C816E-E69B-4D86-9374-9A5EDBE7E579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Domain", "..\4-Domain\PlanB.Domain\PlanB.Domain.csproj", "{AD2C816E-E69B-4D86-9374-9A5EDBE7E579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Domain.Core", "..\4-Domain\PlanB.Domain.Core\PlanB.Domain.Core.csproj", "{D0CD4BF1-F953-4AF3-8C06-413C0AE258E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Domain.Core", "..\4-Domain\PlanB.Domain.Core\PlanB.Domain.Core.csproj", "{D0CD4BF1-F953-4AF3-8C06-413C0AE258E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Infra", "5-Infra", "{464447A5-DF0D-4650-9223-FBBF8864B71F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1-Data", "5.1-Data", "{3E29798D-3828-4087-A0B6-020287685939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Infra.Data", "..\5-Infra\5.1-Data\PlanB.Infra.Data\PlanB.Infra.Data.csproj", "{8BD6A949-7AC5-419C-974C-3C4DE2633066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Infra.Data", "..\5-Infra\5.1-Data\PlanB.Infra.Data\PlanB.Infra.Data.csproj", "{8BD6A949-7AC5-419C-974C-3C4DE2633066}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2-CrossCutting", "5.2-CrossCutting", "{41353265-4423-4B88-BA6D-2EA09FE4996D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.CrossCutting.Bus", "..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Bus\PlanB.CrossCutting.Bus.csproj", "{288EB966-307F-4531-8357-B07A74D12389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.CrossCutting.Bus", "..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Bus\PlanB.CrossCutting.Bus.csproj", "{288EB966-307F-4531-8357-B07A74D12389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.CrossCutting.Identity", "..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Identity\PlanB.CrossCutting.Identity.csproj", "{C2E05441-F8F0-449A-8DFE-B275AECB9FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.CrossCutting.Identity", "..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.Identity\PlanB.CrossCutting.Identity.csproj", "{C2E05441-F8F0-449A-8DFE-B275AECB9FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.CrossCutting.IoC", "..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.IoC\PlanB.CrossCutting.IoC.csproj", "{B363AB16-88B0-4290-B9D3-C71A9A832054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.CrossCutting.IoC", "..\5-Infra\5.2-CrossCutting\PlanB.CrossCutting.IoC\PlanB.CrossCutting.IoC.csproj", "{B363AB16-88B0-4290-B9D3-C71A9A832054}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8B59AB20-E610-4689-93CB-10F0D84B4607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Domain.Tests", "..\..\Tests\2-Domain\PlanB.Domain.Tests\PlanB.Domain.Tests.csproj", "{806CA0FC-E9E7-4550-919D-B9A38D5A462B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Domain.Tests", "..\..\Tests\2-Domain\PlanB.Domain.Tests\PlanB.Domain.Tests.csproj", "{806CA0FC-E9E7-4550-919D-B9A38D5A462B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Domain.Core.Tests", "..\..\Tests\2-Domain\PlanB.Domain.Core.Tests\PlanB.Domain.Core.Tests.csproj", "{9D75CDEF-A28C-4736-81C5-DD2F001FE72C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Domain.Core.Tests", "..\..\Tests\2-Domain\PlanB.Domain.Core.Tests\PlanB.Domain.Core.Tests.csproj", "{9D75CDEF-A28C-4736-81C5-DD2F001FE72C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{4A5C1E07-FB5B-435B-9779-E045D3170DDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Infra.Data.Tests", "..\..\Tests\3-Infra\PlanB.Infra.Data.Tests\PlanB.Infra.Data.Tests.csproj", "{DD4FEFA9-D8BC-4E6C-9BE5-2C01F7113B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Infra.Data.Tests", "..\..\Tests\3-Infra\PlanB.Infra.Data.Tests\PlanB.Infra.Data.Tests.csproj", "{DD4FEFA9-D8BC-4E6C-9BE5-2C01F7113B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Infra.CrossCutting.Bus.Tests", "..\..\Tests\3-Infra\CrossCutting\PlanB.Infra.CrossCutting.Bus.Tests\PlanB.Infra.CrossCutting.Bus.Tests.csproj", "{CF3442CF-C994-464D-9B38-7C2525069D78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Infra.CrossCutting.Bus.Tests", "..\..\Tests\3-Infra\CrossCutting\PlanB.Infra.CrossCutting.Bus.Tests\PlanB.Infra.CrossCutting.Bus.Tests.csproj", "{CF3442CF-C994-464D-9B38-7C2525069D78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Infra.CrossCutting.Identity.Tests", "..\..\Tests\3-Infra\CrossCutting\PlanB.Infra.CrossCutting.Identity.Tests\PlanB.Infra.CrossCutting.Identity.Tests.csproj", "{075E7D7F-7B23-4659-94AC-9F46740F6C83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Infra.CrossCutting.Identity.Tests", "..\..\Tests\3-Infra\CrossCutting\PlanB.Infra.CrossCutting.Identity.Tests\PlanB.Infra.CrossCutting.Identity.Tests.csproj", "{075E7D7F-7B23-4659-94AC-9F46740F6C83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Infra.CrossCutting.IoC.Tests", "..\..\Tests\3-Infra\CrossCutting\PlanB.Infra.CrossCutting.IoC.Tests\PlanB.Infra.CrossCutting.IoC.Tests.csproj", "{1C88C85F-11D1-43AD-8761-351A689DB329}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Infra.CrossCutting.IoC.Tests", "..\..\Tests\3-Infra\CrossCutting\PlanB.Infra.CrossCutting.IoC.Tests\PlanB.Infra.CrossCutting.IoC.Tests.csproj", "{1C88C85F-11D1-43AD-8761-351A689DB329}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{FB8FD911-6301-4725-8CB5-749AB0955476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Services.API.Tests", "..\..\Tests\4-Services\PlanB.Services.API.Tests\PlanB.Services.API.Tests.csproj", "{2519FDAD-565D-46F3-A918-80BC0FC9A3E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Services.API.Tests", "..\..\Tests\4-Services\PlanB.Services.API.Tests\PlanB.Services.API.Tests.csproj", "{2519FDAD-565D-46F3-A918-80BC0FC9A3E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

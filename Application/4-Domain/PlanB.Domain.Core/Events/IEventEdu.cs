@@ -1,3 +1,5 @@
+using NetDevPack.Messaging;
+
 namespace PlanB.Domain.Core.Events
 {
     public interface IEventEdu

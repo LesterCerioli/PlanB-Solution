@@ -1,10 +1,13 @@
+using NetDevPack.Messaging;
+using System;
+
 namespace PlanB.Domain.Core.Events
 {
     public class EduedEvet : Event
     {
 
         
-        public EduedEvent(Event theEvent, string data, string user)
+        public EduedEvet(Event theEvent, string data, string user)
         {
             Id = Guid.NewGuid();
             AggregateId = theEvent.AggregateId;
@@ -15,7 +18,7 @@ namespace PlanB.Domain.Core.Events
         
         
         // EF Constructor
-        protected EduedEvent() { }
+        protected EduedEvet() { }
 
         public Guid Id { get; private set; }
 

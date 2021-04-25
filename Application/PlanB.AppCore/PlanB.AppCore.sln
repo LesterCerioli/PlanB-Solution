@@ -57,6 +57,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{FB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Services.API.Tests", "..\..\Tests\4-Services\PlanB.Services.API.Tests\PlanB.Services.API.Tests.csproj", "{2519FDAD-565D-46F3-A918-80BC0FC9A3E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{546B2B3B-CBD2-41D3-B732-F377061261A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Functional.Tests.API", "..\..\Tests\5-Functional\API\PlanB.Functional.Tests.API\PlanB.Functional.Tests.API.csproj", "{4351ABEB-DD85-46DC-BC48-015636957EB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +135,10 @@ Global
 		{2519FDAD-565D-46F3-A918-80BC0FC9A3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2519FDAD-565D-46F3-A918-80BC0FC9A3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2519FDAD-565D-46F3-A918-80BC0FC9A3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +165,8 @@ Global
 		{1C88C85F-11D1-43AD-8761-351A689DB329} = {4A5C1E07-FB5B-435B-9779-E045D3170DDC}
 		{FB8FD911-6301-4725-8CB5-749AB0955476} = {F2778641-06A4-4F4E-AF08-E0758F8F190C}
 		{2519FDAD-565D-46F3-A918-80BC0FC9A3E1} = {FB8FD911-6301-4725-8CB5-749AB0955476}
+		{546B2B3B-CBD2-41D3-B732-F377061261A7} = {F2778641-06A4-4F4E-AF08-E0758F8F190C}
+		{4351ABEB-DD85-46DC-BC48-015636957EB8} = {546B2B3B-CBD2-41D3-B732-F377061261A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81EEB6DF-A033-48FC-8ACA-6FD310417475}

@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 
 trigger:
-- Development
+- testing/CI
 
 pool:
   vmImage: 'windows-latest'
@@ -36,6 +36,7 @@ steps:
       !**\*TestAdapter.dll
       !**\obj\**
     searchFolder: '$(System.DefaultWorkingDirectory)'
+
 - task: PublishSymbols@2
   inputs:
     SearchPattern: '**/bin/**/*.pdb'

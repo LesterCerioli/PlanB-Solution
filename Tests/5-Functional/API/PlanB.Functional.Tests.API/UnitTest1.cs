@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace PlanB.Services.API.Tests
+namespace PlanB.Functional.Tests.API
 {
     public class UnitTest1
     {

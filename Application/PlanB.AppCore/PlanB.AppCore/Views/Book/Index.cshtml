@@ -1,26 +1,275 @@
 @{
 
     ViewData["Title"] = "Index";
+
+    @* return data form books *@
+
+    void Books(string src, List<string> subtitles)
+    {
+
+
+        <div class="book">
+            <div class="back">
+
+                <img width="100%" height="100%" src="@src" alt="">
+
+
+            </div>
+            <div class="page6">
+                <div class="row">
+                    <div class="col-1"></div>
+
+                </div>
+                <div class="w-100 row">
+                    <div class="col-1"></div>
+
+                    <div id="summary" class="col text-dark">
+
+                        <hr>
+                        <h5 class="text-center text-dark">Sumário</h5>
+                        <hr>
+                        @foreach (var (subtitle, index) in subtitles.Select((value, i) => (value, i)))
+                        {
+                            <p class="text-dark">@(index+1). @subtitle</p>
+                        }
+                        <hr>
+
+                    </div>
+
+                </div>
+                <div class="row">
+
+                </div>
+            </div>
+            <div class="page5"></div>
+            <div class="page4"></div>
+            <div class="page3"></div>
+            <div class="page2"></div>
+            <div class="page1"></div>
+            <div class="front">
+
+                <img width="100%" height="100%" src="@src" alt="">
+
+            </div>
+        </div>
+
+    }
 }
 
-<h1>Livros</h1>
 
 <style>
     p {
         color: white;
+        line-height: .7;
+        font-size: .8em;
     }
 
     h1 {
-        color: white;
+        color: black;
     }
-
-
-
 </style>
-<div>
+<link rel="stylesheet" href="~/css/book.css">
+
+
+
+<div class="" style="min-height:80vh;">
+
+    <div id="carouselControls" class="carousel slide" data-interval="false" data-ride="carousel">
+        <div class="carousel-inner d-flex justify-content-center ">
+            <div class="carousel-item active">
+                @{
+                    Books("media/books/Capa-Apostila-Basic-01.jpg", new List<string>{
+                        "Getting to know each other",
+                        "Verb to be (personal pronouns)",
+                        "Present Continuous",
+                        "Verb There to be + Prepositions of place",
+                        "Simple Present",
+                        "Simple Present + Texto",
+                        "Possessive Case"});
+                }
+            </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Apostila-Basic-02.jpg", new List<string> {
+                        "Wh Questions ",
+                        "Numbers / Hours",
+                        "At the Airport – Conversation Class",
+                        "Plurals",
+                        "Simple Past",
+                        "Past Continuous",
+                        "Holidays and other dates"});
+                }
+            </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Apostila-Intermediate.jpg", new List<string> {
+                        "Text interpretation – reading + video",
+                        "Future will / going to",
+                        "Future continuous",
+                        "Modal verbs",
+                        "Present perfect ",
+                        "Connectors"
+                        });
+                }
+            </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Advanced-01.jpg", new List<string> {
+                        "Phrasal verbs ",
+                        "Past perfect ",
+                        "Active/Passice Voices ",
+                        "Past perfect continuous ",
+                        "Aula Conversacao Aplicada ",
+                        "Wh Connectors ",
+                        "Comparative (either, neither etc) "
+                        });
+                }
+            </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Advanced-02.jpg", new List<string> {
+                        "If clauses",
+                        "Reading + Interpretation",
+                        "Future perfect ",
+                        "Future perfect continuous ",
+                        "Gerunds ",
+                        "Verbal Tenses Review "
+
+                        });
+                }
+            </div>
+
+        </div>
+        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev"
+            onclick="closeInfo();refreshinfo();">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next"
+            onclick="closeInfo();refreshinfo();">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+    <div class="d-flex justify-content-center mb-3 mt-5">
+        <button id="buttonClickInfo" class="btn btn-primary" type="button" data-toggle="collapse"
+            data-target="#informations" aria-expanded="false" onclick="refreshinfo(); clickedInfo=!clickedInfo" ;"
+            aria-controls="collapseExample">
+            Informações
+        </button>
+    </div>
+
+    <div class="collapse carousel-root p-5 text-light" id="informations" style="color:white !important;">
+
+    </div>
+
+    <div class="d-flex justify-content-center mb-3 mt-5">
+        <button id="buttonClick" class="btn btn-primary" type="button" data-toggle="collapse"
+            data-target="#formPayments" aria-expanded="false" aria-controls="collapseExample">
+            Comprar
+        </button>
+
+    </div>
+    <div class="collapse carousel-root p-5" id="formPayments">
+        <form>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">Email</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">Password</label>
+                    <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputAddress">Endereço</label>
+                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+            </div>
+            <div class="form-group">
+                <label for="inputAddress2">Complemento</label>
+                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputCity">Cidade</label>
+                    <input type="text" class="form-control" id="inputCity">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputState">Estado</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>...</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="inputZip">Zip</label>
+                    <input type="text" class="form-control" id="inputZip">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="inputState">Livro</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>...</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck">
+                    <label class="form-check-label" for="gridCheck">
+                        Termos
+                    </label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Confirmar</button>
+        </form>
+    </div>
 
 </div>
 
+
+@section Scripts{
+
+
 <script>
-    
+    let clickStatus = true;
+    let clickedInfo = false;
+    $("#buttonClick").on("click", () => {
+        if (clickStatus) {
+            let but = $("#buttonClick").html("Cancelar")
+            but.removeClass("btn-primary").addClass("btn-danger")
+
+        } else {
+            let but = $("#buttonClick").html("Comprar")
+            but.removeClass("btn-danger").addClass("btn-primary")
+        }
+        clickStatus = !clickStatus;
+    })
+    $("#buttonClickInfo").on("click", () => {
+        if (clickStatus) {
+            let but = $("#buttonClickInfo").html("Fechar")
+            but.removeClass("btn-primary").addClass("btn-danger")
+
+        } else {
+            let but = $("#buttonClickInfo").html("Informações")
+            but.removeClass("btn-danger").addClass("btn-primary")
+        }
+        clickStatus = !clickStatus;
+    })
+
+    function closeInfo() {
+        $('#informations').collapse('hide');
+        let but = $("#buttonClickInfo").html("Informações");
+        but.removeClass("btn-danger").addClass("btn-primary");
+    }
+
+    function refreshinfo() {
+        $("#informations").html($(".active").find("#summary").html())
+    }
 </script>
+
+}

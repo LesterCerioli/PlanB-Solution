@@ -1,18 +1,13 @@
-﻿using NetDevPack.Domain;
-using PlanB.Domain.ValueObjcts;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using NetDevPack.Messaging;
+using PlanB.Domain.Entities;
+using PlanB.Domain.ValueObjcts;
 
-namespace PlanB.Domain.Entities
+namespace PlanB.Domain.Events.Payment
 {
-    public abstract class Payment : Entity, IAggregateRoot
+    public class PaymentRegisteredEvent : Event
     {
-                
-        
-        protected Payment(Guid id, string number, DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string payer, Document document, Address address, Email email)
+        public PaymentRegisteredEvent(Guid id, string number, DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string payer, Document document, Address address, Email email)
         {
             Id = id;
             Number = number;
@@ -24,11 +19,11 @@ namespace PlanB.Domain.Entities
             Document = document;
             Address = address;
             Email = email;
+            AggregateId = id;
         }
 
-        
-        
-        
+        public Guid Id { get; set; }
+                
         public string Number { get; private set; }
         public DateTime PaidDate { get; private set; }
         public DateTime ExpireDate { get; private set; }
@@ -38,5 +33,6 @@ namespace PlanB.Domain.Entities
         public Document Document { get; private set; }
         public Address Address { get; private set; }
         public Email Email { get; private set; }
+        
     }
 }

@@ -1,21 +1,19 @@
-using System;
-using NetDevPack.Domain;
+using PlanB.Domain.Core.ValueObjects;
 using PlanB.Domain.Enums;
 
-namespace PlanB.Domain.Entities
+namespace PlanB.Domain.ValueObjcts
 {
-    public class DocumentK : Entity, IAggregateRoot
+    public class Document : ValueObject
     {
-        public DocumentK(Guid id, string number, EDocumentType type)
+
+        public Document(string number, EDocumentType type)
         {
-            Id = id;
             Number = number;
             Type = type;
 
             
         }
-
-        protected DocumentK() {}
+        
         public string Number { get; private set; }
         public EDocumentType Type { get; private set; }
 

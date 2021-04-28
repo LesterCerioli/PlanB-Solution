@@ -1,113 +1,238 @@
 @{
 
     ViewData["Title"] = "Index";
+
+    @* return data form books *@
+
+
+
+    void Books(string src, List<string> subtitles, string title)
+    {
+
+        <div class="book">
+            <div class="back">
+                <img width="100%" height="100%" src="@src" alt="">
+            </div>
+            <div class="page6">
+                <div class="row">
+                    <div class="col-1"></div>
+
+                </div>
+                <div class="w-100 row">
+                    <div class="col-1"></div>
+
+                    <div id="summary" class="col text-dark">
+
+                        <hr>
+                        <h5 class="text-center text-dark">Sumário</h5>
+                        <hr>
+                        @foreach (var (subtitle, index) in subtitles.Select((value, i) => (value, i)))
+                        {
+                            <p class="text-dark">@(index+1). @subtitle</p>
+                        }
+                        <hr>
+
+                    </div>
+
+                </div>
+                <div class="row">
+
+                </div>
+            </div>
+            <div class="page5"></div>
+            <div class="page4"></div>
+            <div class="page3"></div>
+            <div class="page2"></div>
+            <div class="page1"></div>
+            <div class="front">
+
+                <img width="100%" height="100%" src="@src" alt="">
+
+            </div>
+        </div>
+
+    }
 }
 
 
 <style>
     p {
         color: white;
+        line-height: .7;
+        font-size: .8em;
     }
 
     h1 {
-        color: white;
+        color: black;
     }
 </style>
 <link rel="stylesheet" href="~/css/book.css">
+
+
 
 <div class="" style="min-height:80vh;">
 
     <div id="carouselControls" class="carousel slide" data-interval="false" data-ride="carousel">
         <div class="carousel-inner d-flex justify-content-center ">
             <div class="carousel-item active">
-                <h1 class="d-block w-100">text1</h1>
-                @* <img class="d-block w-100" src="..." alt="First slide"> *@
+                @{
+                    Books("media/books/Capa-Apostila-Basic-01.jpg", new List<string>{
+                        "Getting to know each other",
+                        "Verb to be (personal pronouns)",
+                        "Present Continuous",
+                        "Verb There to be + Prepositions of place",
+                        "Simple Present",
+                        "Simple Present + Texto",
+                        "Possessive Case"}, "Apostila Básica 1");
+                }
             </div>
             <div class="carousel-item">
-                <h1 class="d-block w-100">text2</h1>
+                @{
+                    Books("media/books/Capa-Apostila-Basic-02.jpg", new List<string> {
+                        "Wh Questions ",
+                        "Numbers / Hours",
+                        "At the Airport – Conversation Class",
+                        "Plurals",
+                        "Simple Past",
+                        "Past Continuous",
+                        "Holidays and other dates"}, "Apostila Básica 2");
+                }
             </div>
             <div class="carousel-item">
-                <h1 class="d-block w-100">text3</h1>
+                @{
+                    Books("media/books/Capa-Apostila-Intermediate.jpg", new List<string> {
+                        "Text interpretation – reading + video",
+                        "Future will / going to",
+                        "Future continuous",
+                        "Modal verbs",
+                        "Present perfect ",
+                        "Connectors"
+                        }, "Apostila Intermediária 1");
+                }
             </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Advanced-01.jpg", new List<string> {
+                        "Phrasal verbs ",
+                        "Past perfect ",
+                        "Active/Passice Voices ",
+                        "Past perfect continuous ",
+                        "Aula Conversacao Aplicada ",
+                        "Wh Connectors ",
+                        "Comparative (either, neither etc) "
+                        }, "Apostila Avançada 1");
+                }
+            </div>
+            <div class="carousel-item">
+                @{
+                    Books("media/books/Capa-Advanced-02.jpg", new List<string> {
+                        "If clauses",
+                        "Reading + Interpretation",
+                        "Future perfect ",
+                        "Future perfect continuous ",
+                        "Gerunds ",
+                        "Verbal Tenses Review "
+                        }, "Apostila Avançada 2");
+                }
+            </div>
+
         </div>
-        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev"
+            onclick="closeInfo();refreshinfo();">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Anterior</span>
         </a>
-        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next"
+            onclick="closeInfo();refreshinfo();">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Próximo</span>
         </a>
     </div>
 
     <div class="d-flex justify-content-center mb-3 mt-5">
-        <but id="buttonClick" class="btn btn-primary" type="button" data-toggle="collapse" data-target="#formPayments"
-            aria-expanded="false" aria-controls="collapseExample">
-            Comprar
-        </but>
+        <button id="buttonClickInfo" class="btn btn-primary" type="button" data-toggle="collapse"
+            data-target="#informations" aria-expanded="false" onclick="refreshinfo(); clickedInfo=!clickedInfo" ;"
+            aria-controls="collapseExample">
+            Informações
+        </button>
     </div>
-    <div class="collapse carousel-root p-5" id="formPayments" >
+
+    <div class="collapse carousel-root p-5 text-light" id="informations" style="color:white !important;">
+
+    </div>
+
+    <div class="d-flex justify-content-center mb-3 mt-5">
+        <button id="buttonClick" class="btn btn-primary" type="button" data-toggle="collapse"
+            data-target="#formPayments" aria-expanded="false" aria-controls="collapseExample">
+            Comprar
+        </button>
+
+    </div>
+    <div class="collapse carousel-root p-5" id="formPayments">
         <form>
             <div class="form-row">
                 <div class="form-group col-md-6">
-                    <label for="inputEmail4">Email</label>
-                    <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                    <label for="inputName">Nome Registrado no Cartão</label>
+                    <input type="text" class="form-control" id="inputName" placeholder="Nome Registrado no Cartão"
+                        required>
                 </div>
                 <div class="form-group col-md-6">
-                    <label for="inputPassword4">Password</label>
-                    <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                    <label for="inputEmail">E-mail</label>
+                    <input type="email" class="form-control" id="inputEmail" placeholder="E-mail" required>
                 </div>
-            </div>
-            <div class="form-group">
-                <label for="inputAddress">Endereço</label>
-                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-            </div>
-            <div class="form-group">
-                <label for="inputAddress2">Complemento</label>
-                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
             </div>
             <div class="form-row">
                 <div class="form-group col-md-6">
-                    <label for="inputCity">Cidade</label>
-                    <input type="text" class="form-control" id="inputCity">
+                    <label for="inputName">Data de Vencimento</label>
+                    <input type="text" class="form-control" id="inputName" placeholder="Ex: MM/AA" required>
                 </div>
-                <div class="form-group col-md-4">
-                    <label for="inputState">Estado</label>
-                    <select id="inputState" class="form-control">
-                        <option selected>Choose...</option>
-                        <option>...</option>
-                    </select>
-                </div>
-                <div class="form-group col-md-2">
-                    <label for="inputZip">Zip</label>
-                    <input type="text" class="form-control" id="inputZip">
+                <div class="form-group col-md-6">
+                    <label for="inputCardNumber">Numero do Cartão</label>
+                    <input type="text" class="form-control" id="inputCardNumber" onchange="findFlag()"
+                        placeholder="Ex: AAAA-BBBB-CCCC-DDDD" required>
+                    <img id="bandeiraFlag" src="" width="25px" height="25px" alt="" hidden="true"> <label
+                        id="bandeira"></label>
                 </div>
             </div>
             <div class="form-row">
-                <div class="form-group col-md-4">
-                    <label for="inputState">Livro</label>
-                    <select id="inputState" class="form-control">
-                        <option selected>Choose...</option>
-                        <option>...</option>
+                <div class="form-group col-md-6">
+                    <label for="inputSecCode">Código de Segurança</label>
+                    <input type="text" class="form-control" id="inputSecCode" placeholder="Ex: 123" required>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputCPF">CPF do titular</label>
+                    <input type="text" class="form-control" id="inputCPF" placeholder="Ex: 123.456.789-10" required>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group justify-content-center">
+                    <label for="inputStateBook">Apostilas</label>
+                    <select id="inputStateBook" class="form-control" required>
+                        <option selected>Escolha...</option>
+                        <option>Apostila Básica 1</option>
+                        <option>Apostila Básica 2</option>
+                        <option>Apostila Intermediária 1</option>
+                        <option>Apostila Avançada 1</option>
+                        <option>Apostila Avançada 2</option>
+
                     </select>
                 </div>
             </div>
-            <div class="form-group">
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="gridCheck">
-                    <label class="form-check-label" for="gridCheck">
-                        Termos
-                    </label>
-                </div>
-            </div>
-            <button type="submit" class="btn btn-primary">Confirmar</button>
+
+            <button type="submit" class="btn btn-primary">Confirmar Compra</button>
         </form>
     </div>
 
 </div>
 
+
+@section Scripts{
+
+
 <script>
     let clickStatus = true;
+    let clickedInfo = false;
     $("#buttonClick").on("click", () => {
         if (clickStatus) {
             let but = $("#buttonClick").html("Cancelar")
@@ -118,8 +243,74 @@
             but.removeClass("btn-danger").addClass("btn-primary")
         }
         clickStatus = !clickStatus;
+    })
+    $("#buttonClickInfo").on("click", () => {
+        if (clickStatus) {
+            let but = $("#buttonClickInfo").html("Fechar")
+            but.removeClass("btn-primary").addClass("btn-danger")
 
+        } else {
+            let but = $("#buttonClickInfo").html("Informações")
+            but.removeClass("btn-danger").addClass("btn-primary")
+        }
+        clickStatus = !clickStatus;
     })
 
+    function closeInfo() {
+        $('#informations').collapse('hide');
+        let but = $("#buttonClickInfo").html("Informações");
+        but.removeClass("btn-danger").addClass("btn-primary");
+    }
+
+    function refreshinfo() {
+        $("#informations").html($(".active").find("#summary").html())
+    }
+
+    function findFlag() {
+        let flag = cardFlagVerificator($("#inputCardNumber").val());
+        if (flag) {
+            $("#bandeira").html(flag)
+            $("#bandeiraFlag").attr("hidden", false)
+            $("#bandeiraFlag").attr("src", "media/flags/" + flag + ".png");
+        }
+        else if ($("#inputCardNumber").val().length > 0) {
+            $("#bandeira").html("Inválido");
+            $("#bandeiraFlag").attr("hidden", true)
+        }
+        else {
+            $("#bandeira").html("");
+            $("#bandeiraFlag").attr("hidden", true)
+        }
+    }
+
+
+    const cardFlagVerificator = (cardnumber) => {
+        var cardnumber = cardnumber.replace(/[^0-9]+/g, '');
+
+        var cards = {
+            visa: /^4[0-9]{12}(?:[0-9]{3})/,
+            mastercard: /^5[1-5][0-9]{14}/,
+            diners: /^3(?:0[0-5]|[68][0-9])[0-9]{11}/,
+        @* amex: /^3[47][0-9]{13}/, *@
+            @* discover: /^6(?:011|5[0-9]{2})[0-9]{12}/, *@
+            hipercard: /^(606282\d{10}(\d{3})?)|(3841\d{15})/,
+                elo: /^((((636368)|(438935)|(504175)|(451416)|(636297))\d{0,10})|((5067)|(4576)|(4011))\d{0,12})/,
+                    jcb: /^(?:2131|1800|35\d{3})\d{11}/,
+                        @* aura: /^(5078\d{2})(\d{2})(\d{11})$/ *@
+    };
+
+    for (var flag in cards) {
+        if (cards[flag].test(cardnumber)) {
+            return flag;
+        }
+    }
+
+    return false;
+}
+
+@* Validação JQuery ??? *@
 
 </script>
+
+
+}

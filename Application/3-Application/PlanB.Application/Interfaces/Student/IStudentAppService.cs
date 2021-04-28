@@ -1,3 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Threading.Tasks;
+using PlanB.Application.ViewModels.Student;
+
 namespace PlanB.Application.Interfaces.Student
 {
     public interface IStudentAppService : IDisposable

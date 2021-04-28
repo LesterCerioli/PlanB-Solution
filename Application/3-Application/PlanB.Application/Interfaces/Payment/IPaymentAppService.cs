@@ -1,3 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using FluentValidation.Results;
+using PlanB.Application.ViewModels.Payment;
+
 namespace PlanB.Application.Interfaces.Payment
 {
     public interface IPaymentAppService : IDisposable

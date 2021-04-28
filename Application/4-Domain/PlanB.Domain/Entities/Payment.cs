@@ -15,7 +15,7 @@ namespace PlanB.Domain.Entities
         protected Payment(Guid id, string number, DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string payer, Document document, Address address, Email email)
         {
             Id = id;
-            Number = number;
+            Number = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 10).ToUpper();
             PaidDate = paidDate;
             ExpireDate = expireDate;
             Total = total;
@@ -26,8 +26,7 @@ namespace PlanB.Domain.Entities
             Email = email;
         }
 
-        
-        
+            
         
         public string Number { get; private set; }
         public DateTime PaidDate { get; private set; }

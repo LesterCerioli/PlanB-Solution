@@ -43,9 +43,10 @@ namespace PlanB.Domain.Commands.Validations.Student
         {
             RuleFor(a => a.Email)
                 .NotEmpty()
-                .Length(40).WithMessage("O endereco do Email deve possuir no maximo 40 caracteres")
-                .EmailAddress();
+                .WithMessage("O endereco de Email deve ser informado");
         }
+
+        
 
         protected void ValidateId()
         {

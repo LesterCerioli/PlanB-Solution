@@ -12,7 +12,7 @@ namespace PlanB.Domain.Entities
     {
         private IList<Subscription> _subscriptions;
 
-        public Student(Guid id, string cPF, string firstName, string lastname, Email email, DateTime birthDate)
+        public Student(Guid id, string cPF, string firstName, string lastname, string email, DateTime birthDate)
         {
             
             Id = id;
@@ -33,7 +33,7 @@ namespace PlanB.Domain.Entities
         public IReadOnlyCollection<Subscription> Subscriptions { get { return _subscriptions.ToArray(); } }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
-        public Email Email { get; private set; }
+        public string Email { get; private set; }
         public DateTime BirthDate { get; private set; }
 
         public void AddSubscription(Subscription subscription)

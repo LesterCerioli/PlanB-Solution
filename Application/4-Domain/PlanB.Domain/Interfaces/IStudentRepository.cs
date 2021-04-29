@@ -16,7 +16,7 @@ namespace PlanB.Domain.Interfaces
 
         void Add(Student student);
         void Update(Student student);
-        void remove(Student student);
+        void Remove(Student student);
 
 
          

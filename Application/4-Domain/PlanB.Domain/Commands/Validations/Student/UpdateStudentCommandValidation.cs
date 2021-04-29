@@ -17,6 +17,7 @@ namespace PlanB.Domain.Commands.Validations.Student
             ValidateLastName();
             ValidateBirthDate();
             ValidateEmail();
+            
         }
     }
 }

@@ -36,11 +36,18 @@ namespace PlanB.Domain.Commands.Student
             }
 
             student.AddDomainEvent(new StudentRegisteredEvent(student.Id, student.CPF, student.FirstName, student.LastName, student.BirthDate, student.Email));
+
+            _studentRepository.Add(student);
+
+            return await Commit(_studentRepository.UnitOfWork);
         }
 
-        public Task<ValidationResult> Handle(RemoveStudentCommand request, CancellationToken cancellationToken)
+        public async Task<ValidationResult> Handle(UpdateStudentCommand message, CancellationToken cancellationToken)
         {
-            throw new System.NotImplementedException();
+            if (!message.IsValid()) return message.ValidationResult;
+            
+            var student = new Student(message.Id, message.FirstName, message.LastName, message.CPF, message.BirthDate, message.Email);
+            var existingStudent = await _studentRepository.GetByEmail(student.Email);
         }
     }
 }

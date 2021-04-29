@@ -10,6 +10,8 @@ namespace PlanB.Domain.Interfaces
     {
         Task<Student> GetById(Guid id);
         Task<Student> GetByCPF(string CPF);
+        Task<Student> GetByBirthDate(DateTime BirthDate);
+        Task<Student> GetByEmail(string Email);
         Task<IEnumerable<Student>> GetAll();
 
         void Add(Student student);

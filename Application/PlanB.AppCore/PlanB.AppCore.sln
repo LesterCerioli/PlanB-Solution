@@ -59,7 +59,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Services.API.Tests", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{546B2B3B-CBD2-41D3-B732-F377061261A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.Functional.Tests.API", "..\..\Tests\5-Functional\API\PlanB.Functional.Tests.API\PlanB.Functional.Tests.API.csproj", "{4351ABEB-DD85-46DC-BC48-015636957EB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanB.Functional.Tests.API", "..\..\Tests\5-Functional\API\PlanB.Functional.Tests.API\PlanB.Functional.Tests.API.csproj", "{4351ABEB-DD85-46DC-BC48-015636957EB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8-Microservices", "8-Microservices", "{C5A6C1AE-04BE-4389-8ED3-6AD1F333D92A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanB.MicroService.Cms", "..\8-MicroServices\Cms\PlanB.MicroService.Cms\PlanB.MicroService.Cms.csproj", "{84136CC3-59F2-4670-84C3-325E70DC0DE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +143,10 @@ Global
 		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4351ABEB-DD85-46DC-BC48-015636957EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84136CC3-59F2-4670-84C3-325E70DC0DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84136CC3-59F2-4670-84C3-325E70DC0DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84136CC3-59F2-4670-84C3-325E70DC0DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84136CC3-59F2-4670-84C3-325E70DC0DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,6 +175,7 @@ Global
 		{2519FDAD-565D-46F3-A918-80BC0FC9A3E1} = {FB8FD911-6301-4725-8CB5-749AB0955476}
 		{546B2B3B-CBD2-41D3-B732-F377061261A7} = {F2778641-06A4-4F4E-AF08-E0758F8F190C}
 		{4351ABEB-DD85-46DC-BC48-015636957EB8} = {546B2B3B-CBD2-41D3-B732-F377061261A7}
+		{84136CC3-59F2-4670-84C3-325E70DC0DE9} = {C5A6C1AE-04BE-4389-8ED3-6AD1F333D92A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81EEB6DF-A033-48FC-8ACA-6FD310417475}

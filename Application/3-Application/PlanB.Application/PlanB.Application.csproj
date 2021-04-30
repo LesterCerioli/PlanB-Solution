@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ReportGenerator" Version="4.8.8" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\4-Domain\PlanB.Domain\PlanB.Domain.csproj" />
     <ProjectReference Include="..\..\5-Infra\5.1-Data\PlanB.Infra.Data\PlanB.Infra.Data.csproj" />
   </ItemGroup>

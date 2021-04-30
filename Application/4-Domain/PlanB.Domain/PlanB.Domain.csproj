@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="NetDevPack" Version="1.1.1" />
+    <PackageReference Include="ReportGenerator" Version="4.8.8" />
   </ItemGroup>
 
   <ItemGroup>
